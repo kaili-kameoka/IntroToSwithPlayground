@@ -14,6 +14,16 @@ var two = "two";
 var three = "thre";
 
 var count = one + " " + two + " " + three;
-print(count); 
+print(count);
 print(one, two, three);
+
+//Assignment #2 Introduction to True and False
+var appState = false;
+
+print(appState);
+
+var numberOne = 12;
+var numberTwo = 7;
+var comparison = numberOne < numberTwo;
+print(comparison);
 
