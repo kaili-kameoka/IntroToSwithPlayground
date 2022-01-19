@@ -27,3 +27,7 @@ var numberTwo = 7;
 var comparison = numberOne < numberTwo;
 print(comparison);
 
+var varA = "A";
+var varB = "B";
+var isEqual = varA == varB;
+print(isEqual);
